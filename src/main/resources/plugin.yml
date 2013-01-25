@@ -1,0 +1,18 @@
+# Name of the plugin. This most likely won't appear anywhere, but its nice to name it.
+name: GrieferTrap
+# Main class, obviously
+main: com.notoriousdev.griefertrap.GrieferTrap
+# Version of the plugin. This will not auto-update
+version: 0.0.1-SNAPSHOT
+# The website for NotoriousDev. Not likely to change any time soon.
+website: http://www.notoriousdev.com
+# Blah blah blah...
+description: A literal griefer trap for Bukkit/Spigot servers.
+# Commands
+commands:
+  griefertrap:
+    description: Base command for the plugin
+# Permissions
+permissions:
+  griefertrap.admin:
+    default: OP
