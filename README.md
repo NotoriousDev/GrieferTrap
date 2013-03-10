@@ -5,3 +5,4 @@ GrieferTrap was my first major plugin idea. I did have a very crude version when
 Changelog
 =======
 * All the initial commits! - BranicYeti
+
